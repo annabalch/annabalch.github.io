@@ -17,3 +17,8 @@ hr {
 	border-color: red;
 
 }
+
+.topBanner {
+	position:absolute;
+	top:0px;
+}
