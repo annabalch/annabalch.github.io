@@ -3,12 +3,13 @@ body {
 	background-size: cover;
 	font-family: arial;
 	color: white;
+	line-height: 20px;
+	font-weight: lighter;
+}
+article {
 	padding: 100px;
 	margin-top: 250px;
 	margin-bottom: 100px;
-	line-height: 20px;
-	font-weight: lighter;
-
 }
 
 hr {
@@ -19,6 +20,7 @@ hr {
 }
 
 .topBanner {
-	position:absolute;
-	top:0px;
+	/*position:absolute;
+	top:0px;*/
+	background-repeat: repeat-x;
 }
