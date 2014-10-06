@@ -1,0 +1,19 @@
+body {
+	background-image: url("assets/background.jpg");
+	background-size: cover;
+	font-family: arial;
+	color: white;
+	padding: 100px;
+	margin-top: 250px;
+	margin-bottom: 100px;
+	line-height: 20px;
+	font-weight: lighter;
+
+}
+
+hr {
+	width: 25px;
+	float: left;
+	border-color: red;
+
+}
