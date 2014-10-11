@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+	
+	<head> 
+		<link rel="stylesheet" type="text/css" href="style1.css" />
+	</head>
+
+
+	<body>
+		<h1>Taasky</h1>
+		<hr>
+		<p>Beautiful, simple and easy to use task manager.</p>
+		<a href="#">Download on the Apple Store</a>
+	</body>
+
+
+
+</html>
